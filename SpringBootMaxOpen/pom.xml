@@ -12,6 +12,7 @@
         <module>SpringBootParentOpen</module>
         <module>SpringBootLogBackOpen</module>
         <module>SpringBootLogBackAppendersOpen</module>
+        <module>SpringBootRabbitMQOpen</module>
     </modules>
     <packaging>pom</packaging>
 
